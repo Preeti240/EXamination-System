@@ -37,3 +37,6 @@ For Student
 
     Username: Preeti
     Password: preeti
+    
+## Screenshot
+![Screenshot](screenshot.jpg)
