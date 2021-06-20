@@ -9,9 +9,8 @@ Admin has right to control teacher as well as student.
 We have provided MCQ questions and final exam which consist of an unquie access code for examination.
 Results will be shown once student completes the exam.
 
-So, you can simply use this project.
 
-How to Run this file:
+How to Run this project:
 
 In DBMS-CP.rar all the files are stored and outside files are for website which we created for our project.
 
